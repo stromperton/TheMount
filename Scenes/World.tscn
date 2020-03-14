@@ -1,0 +1,29 @@
+[gd_scene load_steps=4 format=2]
+
+[ext_resource path="res://Scenes/Player.tscn" type="PackedScene" id=1]
+[ext_resource path="res://Art/heart.png" type="Texture" id=2]
+
+[sub_resource type="RectangleShape2D" id=1]
+
+[node name="World" type="Node2D"]
+
+[node name="TileMap" type="TileMap" parent="."]
+cell_size = Vector2( 16, 16 )
+format = 1
+
+[node name="Player" parent="." instance=ExtResource( 1 )]
+position = Vector2( 7.30125, 6.40167 )
+
+[node name="TestCard" type="Area2D" parent="."]
+position = Vector2( 84.5042, 31.2489 )
+__meta__ = {
+"_edit_group_": true
+}
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="TestCard"]
+shape = SubResource( 1 )
+
+[node name="Sprite" type="Sprite" parent="TestCard"]
+texture = ExtResource( 2 )
+[connection signal="area_entered" from="TestCard" to="Player" method="_on_TestCard_area_entered"]
+[connection signal="area_exited" from="TestCard" to="Player" method="_on_TestCard_area_exited"]

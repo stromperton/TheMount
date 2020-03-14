@@ -1,0 +1,14 @@
+{
+	"title": "f",
+	"image": "polana.png",
+	"text": "пустота",
+
+	"sound" : "name.ogg",
+
+	"choises": [
+		{
+			"title" : "Выход",
+			"next" : "END"
+		}
+	]
+}

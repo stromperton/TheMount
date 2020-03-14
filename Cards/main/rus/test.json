@@ -1,0 +1,40 @@
+{
+	"title": "Поляна",
+	"image": "polana.png",
+	"text": "Травка растет тут",
+	"diary": "Сегодня я видела травку!",
+
+	"random_drop": 0.5,
+	"item_remove" : "item_name",
+	"item_add": "item_name",
+	"health": -1,
+	"carma" : -1,
+	"sound" : "name.ogg",
+
+	"random": [
+		{
+			"next" : "dfggd.json",
+			"min": 1,
+			"max": 3
+		},
+		{
+			"next" : "yiou.json",
+			"min": 4,
+			"max": 6
+		}
+	],
+	"choises": [
+		{
+			"title" : "Еще раз!",
+			"next" : "test.json"
+		},
+		{
+			"title" : "Может по новой?",
+			"next" : "lol.json"
+		},
+		{
+			"title" : "Выход",
+			"next" : "END"
+		}
+	]
+}

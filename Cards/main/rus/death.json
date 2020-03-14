@@ -1,0 +1,14 @@
+{
+	"title": "Смерть",
+	"image": "polana.png",
+	"text": "Вы померли. И это уже не изменится!",
+
+	"sound" : "name.ogg",
+
+	"choises": [
+		{
+			"title" : "Выход",
+			"next" : "EXIT"
+		}
+	]
+}
