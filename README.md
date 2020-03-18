@@ -24,7 +24,7 @@
 Непосредственно, вступление.
 [Ссылка на текст](https://docs.google.com/document/d/1qZSvA5_I6Gnn1rJldTVIRv8OuTWaZO_-8P-okAqDiCk/edit)
 ### Побег `escape.json`
-[Побег]: https://github.com/Neyromantik/TheMount/new/master?readme=1#%D0%B3%D0%B5%D1%80%D0%BE%D0%B8%D0%BD%D1%8F%D0%BD%D0%B5%D0%B9%D0%BC
+[Побег]: https://github.com/Neyromantik/TheMount#%D0%BF%D0%BE%D0%B1%D0%B5%D0%B3-escapejson
 Пробраться через границу - дело не легкое. Тем более, когда разрешения на то у тебя нет, да и быть не может, коль столь мала ещё.
 Но у [Героини][ГероиняНейм] всё было предусмотренно.
 
@@ -36,7 +36,7 @@
 Персонажи
 ========
 ### ГероиняНейм
-[ГероиняНейм]: https://github.com/Neyromantik/TheMount/new/master?readme=1#%D0%B3%D0%B5%D1%80%D0%BE%D0%B8%D0%BD%D1%8F%D0%BD%D0%B5%D0%B9%D0%BC
+[ГероиняНейм]: https://github.com/Neyromantik/TheMount#%D0%B3%D0%B5%D1%80%D0%BE%D0%B8%D0%BD%D1%8F%D0%BD%D0%B5%D0%B9%D0%BC
 Рыжеволосая девчонка, стремящаяся найти родного отца, в том числе и в себе самой.
 * Возраст: 13-15 лет
 * Темперамент: Сангвиник
